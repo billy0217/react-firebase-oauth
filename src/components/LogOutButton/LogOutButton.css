@@ -1,0 +1,8 @@
+.o-btn--logout {
+	background-color: #d93025;
+	color: #fff;
+}
+
+.o-btn--logout:hover {
+	background-color: #bb291c;
+}

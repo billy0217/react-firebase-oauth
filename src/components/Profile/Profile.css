@@ -1,0 +1,13 @@
+.c-profile {
+	display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.c-profile__link {
+	color: #1a73e8;
+}
+
+.c-profile__link:hover{
+	color: #1764c9;
+}
